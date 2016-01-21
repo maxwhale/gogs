@@ -1,4 +1,4 @@
-FROM alpine:3.2
+FROM centos:6.7
 MAINTAINER roemer.jp@gmail.com
 
 # Install system utils & Gogs runtime dependencies
